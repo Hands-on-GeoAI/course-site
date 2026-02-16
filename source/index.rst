@@ -1,7 +1,7 @@
 Hands-on GeoAI
 ==============
 
-Welcome to the *Hands-on Geospatial Artificial Intelligence* course organized jointly by TU Graz and Aalto University.
+Welcome to the *Hands-on Geospatial Artificial Intelligence* course organized jointly by TU Graz and Aalto University. On this course ..
 
 .. toctree::
    :maxdepth: 2
