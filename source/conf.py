@@ -47,4 +47,11 @@ html_theme_options = {
 
     # Possible announcement for the page
     #"announcement": ("📢 Exercises 1-2 are out + Week 1-5 videos now available (under 'Overview'). 📢"),
+
+    "launch_buttons": {
+        "binderhub_url": "https://mybinder.org",
+        "thebe": False,
+        "notebook_interface": "jupyterlab",
+        "collapse_navigation": False,
+    }
 },
