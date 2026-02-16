@@ -44,8 +44,7 @@ html_theme_options = {
     "path_to_docs": "source/",
     "use_edit_page_button": True,
     "use_repository_button": True,
-    },
 
     # Possible announcement for the page
     #"announcement": ("📢 Exercises 1-2 are out + Week 1-5 videos now available (under 'Overview'). 📢"),
-}
+},
