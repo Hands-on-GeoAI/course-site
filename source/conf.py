@@ -54,7 +54,7 @@ html_theme_options = {
         "notebook_interface": "jupyterlab",
         "collapse_navigation": False,
     }
-},
+}
 
 # Allow errors
 nb_execution_allow_errors = True
