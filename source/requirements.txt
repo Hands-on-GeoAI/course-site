@@ -1,0 +1,7 @@
+sphinx-book-theme
+sphinx
+ipython
+nbsphinx
+sphinxcontrib-bibtex
+sphinx-togglebutton
+MyST-NB
