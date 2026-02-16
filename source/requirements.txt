@@ -1,11 +1,11 @@
-jupyter-book
+#jupyter-book
 sphinx-book-theme
 sphinx
-matplotlib
-ipython
-jupyter-sphinx
-nbsphinx
+#matplotlib
+#ipython
+#jupyter-sphinx
+#nbsphinx
 sphinxcontrib-bibtex
 sphinx-togglebutton
 MyST-NB
-nbconvert>=6.5.1
+#nbconvert>=6.5.1
