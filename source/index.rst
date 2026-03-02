@@ -101,7 +101,7 @@ The course includes 8 teaching sessions running between March 16th and May 19th,
         - **P1: Machine Learning Practical:** Training a simple ML model, showcasing spatially explicit modeling, and predicting.
         - **Interactive:** Team building exercise (Miro board).
 
-|\n
+
 Contents
 --------
 
@@ -143,4 +143,4 @@ Contents
     :maxdepth: 1
     :caption: Week 2
 
-    lessons/L1
+    lessons/L1/intro-to-GeoAI
