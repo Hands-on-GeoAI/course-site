@@ -2,7 +2,7 @@
 
 **Hands-on Geographical Artificial Intelligence (GeoAI)** introduces you to the foundational approaches and methods of machine learning and artificial intelligence applied to spatial data. Featuring new material and a technical ecosystem for modern spatial data science, this course covers everything from basic ML to deep learning, foundation models, and AI ethics.
 
-This is a new, jointly developed course held collaboratively by the **Geoinformation Group of Aalto University, Finland** and the **Institute of Geodesy (Working Group Geoinformation), TU Graz, Austria**. 
+This is a new, jointly developed course held collaboratively by the **Department of Built Environment, Aalto University, Finland** and the **Institute of Geodesy (Working Group Geoinformation), TU Graz, Austria**. 
 
 .. important::
     Notice that the **course runs from 16.3. - 19.5.2026 (8 sessions)**. 
