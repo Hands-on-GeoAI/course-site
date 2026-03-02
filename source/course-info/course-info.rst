@@ -4,41 +4,45 @@ General info
 Course meetings in teaching period I-II
 ----------------------------------------
 
-This course runs during the fall semester starting in the second half of period 1.
+This course runs during .
 
 Period 1
 --------
 
-Starting on the third teaching week of Period 1 (in Mid-September):
+Starting on the third teaching week of Period 1 ():
 
-- Lessons on Tuesdays 10:15-12:00 and Thursdays 10:15-12:00 (room 326 at Otakaari 4). Videos will be shared afterwards.
-- Exercise sessions on Wednesdays 15:15-17:00 (room U351, Otakaari 1). In-person only.
+- Lessons on .... Videos will be shared afterwards.
+- In-person only.
 
 Period 2
 --------
 
-- Lessons on Mondays 13:15-15:00 and Thursdays 13:15-15:00 (room 326 at Otakaari 4). Videos will be shared afterwards.
-- Exercise sessions on Wednesdays 13:15-15:00 (room U351, Otakaari 1). In-person only.
+- Lessons on . Videos will be shared afterwards.
 
-\* Note: On Wednesday 9.10, the exercise session is exceptionally 16:15-18:00.
+
+\* Note: 
 
 Instructors
 -----------
 
 * Henrikki Tenkanen
+* Ivan Majic
 * Jussi Nikander
+* Zexian Huang
+* Farzad Shami
+* Subhrasankha Dey
 
-Email: *firstname.lastname@aalto.fi*
+Email: how to? .. *firstname.lastname@aalto.fi*
 
-* Guest lecturer: Pyry Kettunen, FGI
-* Course assistants: Newsha Modjrian, Emma Onnela, Aliisa Villberg
+* Guest lecturer: ?
+* Course assistants: Thomas Gegenleithner, Christina Schauer, Franziska Huebl
 
 Course websites
 ---------------
 
 - Course sites:
 
-  - Main course site: `<https://introsda.readthedocs.io>`_
+  - Main course site: `<https://handson-geoai.readthedocs.io/>`_
   - Noppe by CSC: `<https://noppe.csc.fi>`_
   - Slack (Q&A + chat): `<https://introsda.slack.com>`_
   - Polling / voting (active during lectures only): `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
