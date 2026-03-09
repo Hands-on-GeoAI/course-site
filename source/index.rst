@@ -1,4 +1,4 @@
-.. figure:: img/ISDA_banner.png
+.. figure:: img/GeoAI_Banner_t.png
 
 **Hands-on Geographical Artificial Intelligence (GeoAI)** introduces you to the foundational approaches and methods of machine learning and artificial intelligence applied to spatial data. Featuring new material and a technical ecosystem for modern spatial data science, this course covers everything from basic ML to deep learning, foundation models, and AI ethics.
 
