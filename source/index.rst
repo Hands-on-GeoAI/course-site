@@ -81,13 +81,13 @@ The final grade is based on practical assignments:
 - 2 Individual Assignments
 - 1 Collaborative Group Project (executed in mixed teams of students from both TU Graz and Aalto University)
 
-Grading is based on the total points earned across all assignments:
+Grading is based on the total points earned across all assignments. Note that grading schemes differ slightly between Aalto University (first table) and TU Graz (second table):
 
 .. list-table::
     :widths: 1 2 2
     :header-rows: 1
 
-    * - Grade
+    * - Aalto Grade
       - Points required
       - Description
     * - 5 (excellent)
@@ -109,7 +109,28 @@ Grading is based on the total points earned across all assignments:
       - < 50 %
       - Insufficient performance
 
+.. list-table::
+    :widths: 1 2 2
+    :header-rows: 1
 
+    * - TUG Grade
+      - Points required
+      - Description
+    * - 1 (excellent)
+      - ≥ 90 %
+      - Outstanding performance
+    * - 2 (good)
+      - 75 – 89 %
+      - Very good performance
+    * - 3 (satisfactory)
+      - 60 – 74 %
+      - Good performance
+    * - 4 (sufficient)
+      - 50 – 59 %
+      - Adequate performance
+    * - 5 (unsatisfactory)
+      - < 50 %
+      - Insufficient performance
 
 Program
 -------
