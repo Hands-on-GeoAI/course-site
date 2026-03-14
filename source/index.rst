@@ -2,15 +2,16 @@
 
 .. figure:: img/GeoAI_Banner_t.png
 
-**Hands-on Geographical Artificial Intelligence (GeoAI)** introduces you to the foundational approaches and methods of machine learning and artificial intelligence applied to spatial data. Featuring new material and a technical ecosystem for modern spatial data science, this course covers everything from basic ML to deep learning, foundation models, and AI ethics.
+**Hands-on Geographical Artificial Intelligence (GeoAI)** introduces you to the foundational approaches and methods of machine learning and artificial intelligence applied to spatial data. Featuring new material and a technical ecosystem for modern spatial data science, this course covers everything from basic machine learning (ML) to deep learning (DL), foundation models, and AI ethics.
 
 This is a new, jointly developed course held collaboratively by the **Department of Built Environment, Aalto University, Finland** and the **Institute of Geodesy (Working Group Geoinformation), TU Graz, Austria**. 
 
 .. important::
-    Notice that the **course runs from 16.3. - 19.5.2026 (8 sessions)**. 
-    **Registration deadline:** 12th March 2026 via `this form <https://forms.gle/rgCkE3tTLuc2PW9p6>`__.
-    Teaching sessions for **Aalto University students** are held in **Otakaari 4, Espoo, Finland**.
-    Teaching sessions for **TU Graz students** are held at **Rechbauerstraße 12, 8010 Graz, Austria**.
+    Notice that the **course runs from 16.3. to 19.5.2026 (8 sessions)**.
+    **Registration deadline Aalto:** 12th March 2026 via `this form <https://forms.gle/rgCkE3tTLuc2PW9p6>`__.  
+    **Registration deadline TU Graz:** 20th March 2026 via `TUGRAZ-online <https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/576621>`__.  
+    Teaching sessions for **Aalto University students** are held in **Otakaari 4, Espoo, Finland**.  
+    Teaching sessions for **TU Graz students** are held in **room A306, Steyrergasse 30/III, 8010 Graz, Austria**.  
 
     **Aalto students:** If you still need to build your Python and GIS foundations, consider taking the
     *Geo-Python* and *Automating GIS-processes* courses (5 ECTS each) before this course —
