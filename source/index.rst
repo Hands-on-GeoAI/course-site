@@ -135,32 +135,28 @@ Grading is based on the total points earned across all assignments. Note that gr
 Program
 -------
 
-The course includes 8 teaching sessions running between March 16th and May 19th, 2026. Topics for the first two weeks are listed below:
+The course includes 8 teaching sessions running between March 16th and May 19th, 2026. Topics for each week are listed below:
 
-.. list-table::
-    :widths: 1 2 6
-    :header-rows: 1
-    :stub-columns: 1
-    :align: left
-
-    * - Week
-      - Date, Time & Room
-      - Themes
-    * - 1
-      - | 16.03.2026
-        | 09:15–12:00 EET (Finland) / 08:15–11:00 CET (Austria)
-        | Room 201
-      - - **L0: Course Overview:** Information about the course, teaching format, grading format, timeplan, assignments, and rules.
-        - **L1: Introduction into GeoAI:** History of AI, classification of AI, spatial information in AI, spatially explicit AI.
-        - **Concepts in AI:** Explainability, fairness, bias.
-    * - 2
-      - | 23.03.2026
-        | 09:15–12:00 EET (Finland) / 08:15–11:00 CET (Austria)
-        | Room 201
-      - - **L2: Machine Learning Basics:** Different types of algorithms (supervised, unsupervised, regression, classification).
-        - **ML Workflows:** Terminology, training procedure, evaluation of models.
-        - **P1: Machine Learning Practical:** Training a simple ML model, showcasing spatially explicit modeling, and predicting.
-        - **Interactive:** Team building exercise (Miro board).
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| Date   | Graz       | Helsinki    | Lecture                              | Practical                         | Lecturer         |
++========+============+=============+======================================+===================================+==================+
+| 16.03. | 09:00-12:00| 10:00-13:00 | | L0: Course Overview                | P1: Introduction into Practicals  | Ivan Majic       |
+|        |            |             | | L1: Introduction into GeoAI        |                                   |                  |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 23.03. | 09:00-12:00| 10:00-13:00 | L2: Machine Learning Basics          | P2: Machine Learning Practical    | Subhrashanka Dey |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 14.04. | 13:00-16:00| 14:00-17:00 | L3: Deep Learning                    | P3: Deep Learning Practical       | Ivan Majic       |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 21.04. | 13:00-16:00| 14:00-17:00 | L4: GeoAI in image processing        | P4: GeoAI in image processing     | van Majic        |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 28.04. | 13:00-16:00| 14:00-17:00 | L5: Advanced aspects of GeoAI        | P5: Project topics discussion     | Ivan Majic       |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 05.05. | 13:00-16:00| 14:00-17:00 | L6: LLMs and foundation models       | P6: Using LLMs for GIScience      | Farzad Shami     |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 12.05. | 13:00-16:00| 14:00-17:00 | L7: GeoAI applications and roadmap   | P7: Project Q&A                   | TUG + Aalto      |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
+| 19.05. | 13:00-16:00| 14:00-17:00 | Group project presentations          |                                   |                  |
++--------+------------+-------------+--------------------------------------+-----------------------------------+------------------+
 
 
 Contents
