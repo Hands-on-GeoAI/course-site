@@ -6,12 +6,19 @@
 
 This is a new, jointly developed course held collaboratively by the **Department of Built Environment, Aalto University, Finland** and the **Institute of Geodesy (Working Group Geoinformation), TU Graz, Austria**. 
 
-.. important::
-    Notice that the **course runs from 16.3. to 19.5.2026 (8 sessions)**.
-    **Registration deadline Aalto:** 12th March 2026 via `this form <https://forms.gle/rgCkE3tTLuc2PW9p6>`__.  
-    **Registration deadline TU Graz:** 20th March 2026 via `TUGRAZ-online <https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/576621>`__.  
-    Teaching sessions for **Aalto University students** are held in **Otakaari 4, Espoo, Finland**.  
-    Teaching sessions for **TU Graz students** are held in **room A306, Steyrergasse 30/III, 8010 Graz, Austria**.  
+.. admonition:: Course IDs & Credits
+
+    | **ECTS Credits:** 3
+    | **TU Graz Students:** Selected Topics of Goespatial Technologies (Hands-on Geographical Artificial Intelligence). Course Number ``GST.416UF``.
+    | **Aalto University Students:** Special course on Geoinformatics under the Master's Programme of Geoinformatics. Course code: ``GIS-E6020``.
+
+.. important:: Duration and registration
+
+    | Notice that the **course runs from 16.3. to 19.5.2026 (8 sessions)**.
+    | **Registration deadline Aalto:** 12th March 2026 via `this form <https://forms.gle/rgCkE3tTLuc2PW9p6>`__.  
+    | **Registration deadline TU Graz:** 20th March 2026 via `TUGRAZ-online <https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/576621>`__.  
+    | Teaching sessions for **Aalto University students** are held in **Otakaari 4, Espoo, Finland**.  
+    | Teaching sessions for **TU Graz students** are held in **room A306, Steyrergasse 30/III, 8010 Graz, Austria**.  
 
     **Aalto students:** If you still need to build your Python and GIS foundations, consider taking the
     *Geo-Python* and *Automating GIS-processes* courses (5 ECTS each) before this course —
@@ -60,13 +67,13 @@ For the introductory sessions, the following existing materials are highly recom
 Course format & Ecosystem
 -------------------------
 
-The majority of the work for the course exercises will be programming in the Python language.
-The course consists of Lecture/Practical (VU) sessions in which concepts are introduced and then immediately applied to real-world geospatial datasets.
+Course exercises require programming in the Python language.
+The course consists of combined Lecture/Practical sessions in which concepts are introduced and then immediately applied to real-world geospatial datasets.
 
 The main tools and services we will use on this course include:
 
 - **GitHub Classroom:** Used for hosting online lecture and practical materials.
-- **LUMI Supercomputer:** Students will have access to the Finnish LUMI supercomputer for training models and running inference.
+- **Supercomputer:** Students will have access to the Finnish CSC supercomputer for training models and running inference.
 
 **Assessment / Grading:**
 The final grade is based on practical assignments:
@@ -102,13 +109,7 @@ Grading is based on the total points earned across all assignments:
       - < 50 %
       - Insufficient performance
 
-.. admonition:: University Specifics & Credits
 
-    **ECTS Credits:** 3
-    
-    **TU Graz Students:** Course Number ``GST.416UF`` (Selected Topics of Geospatial Technologies).
-    
-    **Aalto University Students:** Special course on Geoinformatics under the Master's Programme of Geoinformatics. Course code: ``GIS-E6020``.
 
 Program
 -------
