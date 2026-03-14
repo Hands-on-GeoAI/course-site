@@ -25,17 +25,21 @@ Period 2
 Instructors
 -----------
 
-* Henrikki Tenkanen
-* Ivan Majic
-* Jussi Nikander
-* Zexian Huang
-* Farzad Shami
-* Subhrasankha Dey
+- Aalto University (*firstname.lastname@aalto.fi*):
 
-Email: how to? .. *firstname.lastname@aalto.fi*
+  - Henrikki Tenkanen
+  - Jussi Nikander
+  - Farzad Shami
+  - Subhrasankha Dey
 
-* Guest lecturer: ?
-* Course assistants: Thomas Gegenleithner, Christina Schauer, Franziska Huebl
+- TU Graz (*lastname@tugraz.at*):
+
+  - Ivan Majic
+
+  - Student Assistants (*firstname.lastname@student.tugraz.at*):
+
+    - Thomas Gegenleithner
+    - Christina Schauer
 
 Course websites
 ---------------
