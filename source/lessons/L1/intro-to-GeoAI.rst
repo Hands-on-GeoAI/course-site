@@ -1,7 +1,5 @@
-Introduction to GeoAI
+L0: Course Overview
 =======
-Lecture 0: Course Overview
-
 
 .. raw:: html
 
