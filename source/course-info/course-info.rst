@@ -1,21 +1,53 @@
-General info
-============
+General Information
+===================
 
-Course meetings in teaching period 
---------------------------------------
+Course Meetings
+---------------
 
-- For Aalto students 
-	- Lessons on **Mondays** at **10:00-13:00**. Videos will be shared afterwards.
-	- Location: 
-		- Otakaari 4, Room 201 for the dates **16.03.2026** and **23.03.2026**.
-	    - Otakaari 4, Room 150 for the date **21.04.2026**.
-		- Otakaari 4, Room 202 for the date **14.04.2026**, **28.04.2026**, **05.05.2026**, **12.05.2026** and **19.05.2026**.
-- For Tu Graz students
-	- Lessons on **Mondays** at **09:00-12:00**. Videos will be shared afterwards.
-	- Location: Room A306, Steyrergasse 30/III, 8010 Graz
+The course is held collaboratively between Aalto University and TU Graz. Please note the specific rooms and local times for your institution.
 
+.. admonition:: Time Zone Note
+   
+   Lectures are held simultaneously. 10:00–13:00 in **Helsinki (EET/EEST)** corresponds to 09:00–12:00 in **Graz (CET/CEST)**.
 
-\* Note: 
+Aalto University (Espoo)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* **Time:** Mondays, 10:15–13:00 (Helsinki time)
+* **Format:** In-person sessions; recordings shared afterward.
+
+.. list-table:: 
+   :widths: 30 70
+   :header-rows: 1
+   :stub-columns: 0
+
+   * - Date
+     - Location (Otakaari 4)
+   * - 16.03. & 23.03.
+     - Room 201
+   * - 14.04.
+     - Room 202
+   * - 21.04.
+     - Room 150
+   * - 28.04. – 19.05.
+     - Room 202
+
+TU Graz (Graz)
+~~~~~~~~~~~~~~
+
+* **Time:** Mondays, 09:00–12:00 (Graz time)
+* **Format:** In-person sessions; recordings shared afterward.
+
+.. list-table::
+   :widths: 30 70
+   :header-rows: 1
+
+   * - Date
+     - Location
+   * - All Sessions
+     - Room A306, Steyrergasse 30/III, 8010 Graz
+	 
+	 
 
 Instructors
 -----------
