@@ -197,10 +197,11 @@ Contents
     :maxdepth: 1
     :caption: Week 1
 	
-    lessons/L1/intro-to-GeoAI
+    lessons/L1/GeoAI_course_overview.rst
+    lessons/L1/Introduction_to_GeoAI.rst
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 2
 
-    lessons/L2/Machine-Learning-Basics 
+    .. lessons/L2/Machine-Learning-Basics 
