@@ -199,6 +199,7 @@ Contents
 	
     lessons/L1/GeoAI_course_overview.rst
     lessons/L1/Introduction_to_GeoAI.rst
+    lessons/L1/practical_1.rst
 
 .. toctree::
     :maxdepth: 1
