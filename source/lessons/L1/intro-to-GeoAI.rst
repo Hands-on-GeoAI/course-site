@@ -1,4 +1,4 @@
-Introduction to GeoAI - Part 1 (EXP)
+Lecture 0: Course Overview
 ==============================
 
 .. raw:: html
