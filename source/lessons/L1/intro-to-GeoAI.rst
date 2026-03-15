@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Introduction to GeoAI
 =======
 Lecture 0: Course Overview
->>>>>>> e75b1a94152af67bcbab9f6b1b42e9e933e7e07a
-==============================
+
 
 .. raw:: html
 
