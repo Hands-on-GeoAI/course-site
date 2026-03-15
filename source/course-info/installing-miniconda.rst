@@ -87,7 +87,7 @@ the Python interpreter. It is a good practice to install all packages (if possib
 conda channel (e.g. ``conda-forge`` which we recommend), and not to mix conda and pip for installations
 if not strictly necessary.
 
-**Installing the** ``sustainability-gis`` **environment for the course**
+**Installing the** ``geoai`` **environment for the course**
 
 Conda/Mamba has an excellent documentation about `creating and managing conda environments <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`__
 where you can check details of the used commands.
@@ -134,7 +134,7 @@ and executing the following command in the directory where you downloaded the `.
 
 .. code-block::
 
-    conda activate sustainability-gis
+    conda activate geoai
 
 You should now see the name of the environment at the start of the command line.
 
@@ -150,7 +150,7 @@ If not, i) ensure that you have activated the environment, (step 2 above), ii) e
 4. **Launch JupyterLab IDE**
 
 After you have installed all required packages, you can start working in a local Jupyter Lab environment that is
-linked to your ``sustainability-gis`` environment by launching jupyter lab on the command line.
+linked to your ``geoai`` environment by launching jupyter lab on the command line.
 
 It's a good idea to first navigate to the folder where your Jupyter Notebook -files are located before launching Jupyter Lab.
 
