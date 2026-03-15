@@ -105,12 +105,8 @@ Voting and polling
 ------------------
 
 During the lectures we will ask you questions by using an easy-to-use polling-system and show you the results in real-time.
-You can access the polling system of our course from `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
+You can access the polling system of our course from `<https://slido.com>`__ and using the code and password shared in the lecture slides.
 
-.. note::
-
-    The polling system is active only **during** the lessons. If you access the website outside the lecture times, you
-    will most probably see only a white page without any content.
 
 Slack
 ------
