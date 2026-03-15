@@ -167,37 +167,40 @@ Contents
     :caption: Course information
 
     course-info/course-info
-    .. course-info/learning-goals
-    .. course-info/grading
-    .. course-info/course-environment-components
-    .. course-info/slack-usage
-    .. course-info/License-terms
-    .. course-info/attribution
-    .. course-info/resources
-    .. course-info/installing-miniconda
+    course-info/learning-goals
+    course-info/grading
+    course-info/course-environment-components
+    course-info/slack-usage
+    course-info/License-terms
+    course-info/attribution
+    course-info/resources
+    course-info/installing-miniconda
 
 .. toctree::
     :maxdepth: 1
     :caption: Exercises
 
-    .. exercises/exercise-1
-    .. exercises/exercise-2
-    .. exercises/exercise-3
+    exercises/exercise-1
+    exercises/exercise-2
+    exercises/exercise-4_to_del.ipynb	
 
 .. toctree::
     :maxdepth: 1
     :caption: Tutorials
 
-    .. tutorials/git-basics
-    .. tutorials/intro-to-python-geostack.ipynb
+    tutorials/git-basics
+    tutorials/intro-to-python-geostack.ipynb
+	tutorials/L2_T1_Notebook1_Vienna_Airbnb_Classification.ipynb
     .. tutorials/spatial_network_analysis.ipynb
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 1
+	
+	lessons/L1/intro-to-GeoAI
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 2
 
-    lessons/L1/intro-to-GeoAI
+    lessons/L2/Machine-Learning-Basics 
