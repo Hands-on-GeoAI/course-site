@@ -1,4 +1,4 @@
-Introduction to GeoAI - Part 1 (EXP)
+Introduction to GeoAI
 ==============================
 
 .. raw:: html

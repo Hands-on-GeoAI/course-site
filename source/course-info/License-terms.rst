@@ -77,6 +77,6 @@ Code snippets / software
 ------------------------
 
 Except where otherwise noted, the example programs, code snippets and other software provided by the
-Spatial Data Science for Sustainable Development -course are made available under the **GNU GPLv3 license**
+Hands-on Geographical Artificial Intelligence (GeoAI) -course are made available under the **GNU GPLv3 license**
 (read licence `here <https://www.gnu.org/licenses/gpl.html>`_.
 
