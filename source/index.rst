@@ -179,9 +179,9 @@ Contents
     :maxdepth: 1
     :caption: Exercises
 
-    exercises/exercise-1
-    exercises/exercise-2
-    exercises/exercise-4_to_del.ipynb	
+    .. exercises/exercise-1
+    .. exercises/exercise-2
+    .. exercises/exercise-4_to_del.ipynb	
 
 .. toctree::
     :maxdepth: 1
