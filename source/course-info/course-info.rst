@@ -1,23 +1,18 @@
 General info
 ============
 
-Course meetings in teaching period I-II
-----------------------------------------
+Course meetings in teaching period 
+--------------------------------------
 
-This course runs during .
-
-Period 1
---------
-
-Starting on the third teaching week of Period 1 ():
-
-- Lessons on .... Videos will be shared afterwards.
-- In-person only.
-
-Period 2
---------
-
-- Lessons on . Videos will be shared afterwards.
+- For Aalto students 
+	- Lessons on **Mondays** at **10:00-13:00**. Videos will be shared afterwards.
+	- Location: 
+		- Otakaari 4, Room 201 for the dates **16.03.2026** and **23.03.2026**.
+	    - Otakaari 4, Room 150 for the date **21.04.2026**.
+		- Otakaari 4, Room 202 for the date **14.04.2026**, **28.04.2026**, **05.05.2026**, **12.05.2026** and **19.05.2026**.
+- For Tu Graz students
+	- Lessons on **Mondays** at **09:00-12:00**. Videos will be shared afterwards.
+	- Location: Room A306, Steyrergasse 30/III, 8010 Graz
 
 
 \* Note: 
@@ -29,8 +24,9 @@ Instructors
 
   - Henrikki Tenkanen
   - Jussi Nikander
-  - Farzad Shami
   - Subhrasankha Dey
+  - Farzad Shami
+
 
 - TU Graz (*lastname@tugraz.at*):
 
