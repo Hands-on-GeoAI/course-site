@@ -190,7 +190,7 @@ Contents
 
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
-	tutorials/L2_T1_Notebook1_Vienna_Airbnb_Classification.ipynb
+	tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
     .. tutorials/spatial_network_analysis.ipynb
 
 .. toctree::
