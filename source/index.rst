@@ -53,7 +53,6 @@ Supporting material
 For the introductory sessions, the following existing materials are highly recommended:
 
 - `Git Basics Tutorial <https://sustainability-gis.readthedocs.io/en/latest/tutorials/git-basics.html>`__
-- `Introduction to GeoAI <https://introsda.readthedocs.io/en/latest/lessons/L10/intro-to-GeoAI.html>`__
 
 .. admonition:: Help improving the materials
 
@@ -190,14 +189,14 @@ Contents
 
     tutorials/git-basics
     tutorials/intro-to-python-geostack.ipynb
-	tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
+    tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
     .. tutorials/spatial_network_analysis.ipynb
 
 .. toctree::
     :maxdepth: 1
     :caption: Week 1
 	
-	lessons/L1/intro-to-GeoAI
+    lessons/L1/intro-to-GeoAI
 
 .. toctree::
     :maxdepth: 1
