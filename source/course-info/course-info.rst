@@ -47,9 +47,10 @@ Course websites
 - Course sites:
 
   - Main course site: `<https://handson-geoai.readthedocs.io/>`_
-  - Noppe by CSC: `<https://noppe.csc.fi>`_
-  - Slack (Q&A + chat): `<https://introsda.slack.com>`_
-  - Polling / voting (active during lectures only): `presemo.aalto.fi/sds <https://presemo.aalto.fi/sds/>`__
+  - Slack (Q&A + chat): `<https://hands-ongeoai2026.slack.com>`_
+  - CSC supercomputer: `<https://my.csc.fi>`_
+  - Polling / voting (for in-lecture polls): `<https://slido.com>`__
+  - GitHub classroom: `<https://classroom.github.com/classrooms/260421565-hands-on-geoai-2026>`_
 
 - Other useful resources:
 
@@ -57,4 +58,4 @@ Course websites
   - Automating GIS processes - Introduction to geographical analysis with Python: `<https://autogis.github.io>`_
   - Geographic Data Science - Introduction to more advanced concepts of geographical analysis: `<https://geographicdata.science/book/intro.html>`_
   - Spatial Data Science for Sustainable Development: `<http://sustainability-gis.readthedocs.org/>`_
-
+  - GeoAI book: `Gao, S., Hu, Y., & Li, W. (Eds.). (2023). Handbook of Geospatial Artificial Intelligence (1st ed.). CRC Press. <https://doi-1org-1t0s4pjfs2da4.ftubhan.tugraz.at/10.1201/9781003308423>`_
