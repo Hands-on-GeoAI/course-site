@@ -13,7 +13,7 @@ The course is held collaboratively between Aalto University and TU Graz. Please 
 Aalto University (Espoo)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **Time:** Mondays, 10:15–13:00 (Helsinki time)
+* **Time:** Mondays, 10:00–13:00 (Helsinki time)
 * **Format:** In-person sessions; recordings shared afterward.
 
 .. list-table:: 
