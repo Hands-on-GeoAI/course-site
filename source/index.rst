@@ -189,6 +189,8 @@ Contents
 
     tutorials/git-basics
     tutorials/Python_and_Jupyter_Notebook.ipynb
+    tutorials/L2-BasicML-Tutorial-1-Classification.ipynb
+    tutorials/L2-BasicML-Tutorial-2-Regression.ipynb
     .. tutorials/intro-to-python-geostack.ipynb
     .. tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
     .. tutorials/spatial_network_analysis.ipynb
@@ -205,4 +207,4 @@ Contents
     :maxdepth: 1
     :caption: Week 2
 
-    .. lessons/L2/Machine-Learning-Basics 
+    lessons/L2/Machine-Learning-Basics.rst
