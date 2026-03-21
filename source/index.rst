@@ -207,4 +207,5 @@ Contents
     :maxdepth: 1
     :caption: Week 2
 
-    lessons/L2/Machine-Learning-Basics.rst
+    lessons/L2/L2-Machine-Learning-Basics-part1
+    lessons/L2/L2-Machine-Learning-Basics-part2
