@@ -117,7 +117,7 @@ After installing ``mamba``, the main steps for creating and using a conda enviro
 We have prepared a ready-made environment file for you (called ``environment.yml``). You can download the file from the link below.
 On the download page: click the Download button on top-right (an arrow down button next to a button called "Raw"):
 
-- `DOWNLOAD THE ENVIRONMENT FROM HERE <https://github.com/AaltoGIS/Sustainability-GIS/blob/master/environment.yml>`__.
+- `DOWNLOAD THE ENVIRONMENT FROM HERE <https://github.com/Hands-on-GeoAI/Practical_Sessions/blob/main/GeoAI-env.yml>`__.
 
 After downloading the environment file, run the following commands on the same folder where you downloaded it.
 If you don't know how to navigate between different folders, check these short tutorials for `terminal <https://riptutorial.com/terminal/example/26023/basic-navigation-commands>`_ and `command prompt (Windows) <https://riptutorial.com/cmd/example/8646/navigating-in-cmd>`_.
@@ -128,7 +128,7 @@ and executing the following command in the directory where you downloaded the `.
 
 .. code-block::
 
-    mamba env create -f environment.yml
+    mamba env create -f GeoAI-env.yml
 
 2. **Activate the environment**:
 
