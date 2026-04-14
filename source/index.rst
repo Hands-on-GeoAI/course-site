@@ -209,3 +209,9 @@ Contents
 
     lessons/L2/L2-Machine-Learning-Basics-part1
     lessons/L2/L2-Machine-Learning-Basics-part2
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 3
+
+    lessons/L3/L3-Deep-Learning
