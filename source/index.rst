@@ -193,7 +193,7 @@ Contents
     tutorials/L2-BasicML-Tutorial-2-Regression.ipynb
     tutorials/L3-Deep-Learning-Tutorial.ipynb
     tutorials/L4_1-EUROSAT.ipynb
-	tutorials/L4_2-PoolDetection.ipynb
+    tutorials/L4_2-PoolDetection.ipynb
     .. tutorials/intro-to-python-geostack.ipynb
     .. tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
     .. tutorials/spatial_network_analysis.ipynb
