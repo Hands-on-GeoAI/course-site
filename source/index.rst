@@ -223,4 +223,4 @@ Contents
     :maxdepth: 1
     :caption: Week 4
 
-    lessons/L3/L3-Deep-Learning
+    lessons/L4/L4-GeoAI-Image_Processing
