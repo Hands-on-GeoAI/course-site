@@ -194,6 +194,7 @@ Contents
     tutorials/L3-Deep-Learning-Tutorial.ipynb
     tutorials/L4_1-EUROSAT.ipynb
     tutorials/L4_2-PoolDetection.ipynb
+    source/tutorials/tiles.zip
     .. tutorials/intro-to-python-geostack.ipynb
     .. tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
     .. tutorials/spatial_network_analysis.ipynb
