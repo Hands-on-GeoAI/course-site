@@ -225,3 +225,9 @@ Contents
     :caption: Week 4
 
     lessons/L4/L4-GeoAI-Image_Processing
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 5
+
+    lessons/L5/L5-Advanced_aspects_of_GeoAI
