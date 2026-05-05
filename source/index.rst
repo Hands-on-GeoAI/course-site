@@ -194,6 +194,9 @@ Contents
     tutorials/L3-Deep-Learning-Tutorial.ipynb
     tutorials/L4_1-EUROSAT.ipynb
     tutorials/L4_2-PoolDetection.ipynb
+    tutorials/01a_geoai.ipynb
+    tutorials/02a_geoai.ipynb
+    tutorials/02b_geoai-solutions.ipynb
     source/tutorials/tiles.zip
     .. tutorials/intro-to-python-geostack.ipynb
     .. tutorials/L2-T1-Notebook1-Vienna-Airbnb-Classification.ipynb
@@ -231,3 +234,9 @@ Contents
     :caption: Week 5
 
     lessons/L5/L5-Advanced_aspects_of_GeoAI
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 6
+
+    lessons/L6/L6-LLMs_and_Foundation_Models
