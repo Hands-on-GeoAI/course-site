@@ -240,3 +240,9 @@ Contents
     :caption: Week 6
 
     lessons/L6/L6-LLMs_and_Foundation_Models
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Week 7
+
+    lessons/L7/L7-GeoAI_Applications_and_Research
